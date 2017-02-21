@@ -9,7 +9,7 @@ each event has a score attached to it.
 
 The following mapping shows the scores available:
 
-```json
+```ruby
 {
 "IssuesEvent" => 7,
 "IssueCommentEvent" => 6,

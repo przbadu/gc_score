@@ -2,7 +2,7 @@
 
 The API endpoint to fetch the activities for a user on Github is as follows:
 
-[https://api.github.com/users/<github_username>/events/public](https://api.github.com/users/<github_username>/events/public)
+[https://api.github.com/users/username/events/public](https://api.github.com/users/username/events/public)
 
 The JSON response for the above call contains an area of events of different types, and
 each event has a score attached to it.
